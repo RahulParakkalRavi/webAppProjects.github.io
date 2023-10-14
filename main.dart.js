@@ -81447,7 +81447,7 @@ F(a){var s,r,q=null,p=$.cs
 p.toString
 s=A.aq(48,0,0,0)
 r=t.p
-return A.ch(A.cF(A.a([A.cG(q,A.fF(A.a([A.cG(q,q,B.m,q,q,new A.c7(A.aq(3,0,0,0),B.C7,q,q,q,q,q,B.R),q,p*0.08,q,q,q,q,p*0.1),B.xW,A.fw(q,A.hx(B.iv,B.i,q,q),new A.a7b(),q,q),B.W,A.cG(q,q,B.m,q,q,B.hE,q,20,q,q,q,q,20),B.W],r),B.x,B.z,B.t),B.m,s,q,q,q,q,q,q,q,q,q)],r),B.x,B.z,B.t),p*0.2,p)}}
+return A.ch(A.cF(A.a([A.cG(q,A.fF(A.a([A.cG(q,q,B.m,q,q,new A.c7(A.aq(3,0,0,0),B.C8,q,q,q,q,q,B.R),q,p*0.08,q,q,q,q,p*0.1),B.xW,A.fw(q,A.hx(B.iv,B.i,q,q),new A.a7b(),q,q),B.W,A.cG(q,q,B.m,q,q,B.hE,q,20,q,q,q,q,20),B.W],r),B.x,B.z,B.t),B.m,s,q,q,q,q,q,q,q,q,q)],r),B.x,B.z,B.t),p*0.2,p)}}
 A.a7b.prototype={
 $0(){},
 $S:0}
@@ -82006,7 +82006,7 @@ return A.F($async$vg,r)},
 $iaz4:1}
 A.Mm.prototype={
 F(a){var s,r=null,q=A.bw(a,B.bU,t.w).w.a.a
-if(q>600)$.cs=500
+if(q>600)$.cs=470
 else $.cs=q
 q=A.a([A.I4(new A.a9Y(),t.t6),A.I4(new A.a9Z(),t.HJ),A.I4(new A.aa_(),t.Rq),A.I4(new A.aa0(),t._K),A.I4(new A.aa1(),t.gh)],t.Ds)
 s=A.azJ(A.awh(r,r,r,B.l,r,r,r,r,r,r,r,r,r,r,r,r),r,A.aRF().$0().d,B.l,A.aho(A.dD(r,r,B.i,r,r,r,r,r,r,r,r,r,r,r,r,r,r,!0,r,r,r,r,r,r,r,r),A.dD(r,r,B.i,r,r,r,r,r,r,r,r,r,r,r,r,r,r,!0,r,r,r,r,r,r,r,r),r,r,r,r,r,r,r,r,r,r,r,r,r),r)
@@ -87197,9 +87197,9 @@ B.z2=new A.rz("assets/images/appbar_container_emoji.png")
 B.bW=new A.xU(2,"cover")
 B.cz=new A.tH(3,"noRepeat")
 B.c3=new A.p9(1,"low")
-B.C8=new A.t8(B.z2,null,B.bW,1)
+B.C7=new A.t8(B.z2,null,B.bW,1)
 B.R=new A.Ie(0,"rectangle")
-B.hE=new A.c7(B.au,B.C8,null,null,null,null,null,B.R)
+B.hE=new A.c7(B.au,B.C7,null,null,null,null,null,B.R)
 B.hF=new A.xU(0,"fill")
 B.zK=new A.xU(6,"scaleDown")
 B.cp=new A.Ib(0,"tight")
@@ -87624,8 +87624,8 @@ B.lA=new A.oQ(2,"initializedServices")
 B.C4=new A.oQ(3,"initializingUi")
 B.C5=new A.oQ(4,"initialized")
 B.C6=new A.a29(1,"traversalOrder")
-B.z1=new A.rz("assets/images/netflixLogo.png")
-B.C7=new A.t8(B.z1,null,B.bW,1)
+B.z1=new A.rz("assets/images/Logo.png")
+B.C8=new A.t8(B.z1,null,B.bW,1)
 B.c_=new A.JH(0,"background")
 B.lB=new A.JH(1,"foreground")
 B.Ua=new A.UA(null)
